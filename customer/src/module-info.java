@@ -1,0 +1,3 @@
+module customer {
+    exports customer;
+}
